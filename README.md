@@ -1,3 +1,7 @@
+    
+![banner](https://github.com/TerraSoftwarehouse/Projeto-Treinamento-Scrum/blob/master/imagens/CAPA.jpg?raw=true)
+</div>
+
 <h1 align="center">Documentação</h1>
 <h1>1. Introdução </h1>
 
