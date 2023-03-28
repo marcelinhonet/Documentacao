@@ -1,6 +1,5 @@
     
-![banner](https://github.com/TerraSoftwarehouse/Projeto-Treinamento-Scrum/blob/master/imagens/CAPA.jpg?raw=true)
-</div>
+
 
 <h1 align="center">Documentação</h1>
 <h1>1. Introdução </h1>
@@ -25,3 +24,6 @@ o	Github e VS Code.
 o	Microsoft Teams e grupo privado whats app 
 <h2>2.1.4	Levantamento de requisitos</h2>
 O time enviou ao Product Owner via Teams as atividades que estariam aptos a executar e o mesmo as organizou, acrescentou mais itens que achou adequado e efetuou a montagem do Product Backlog priorizado onde foram selecionadas as funcionalidades feitas durante a primeira sprint.
+
+![banner](https://github.com/TerraSoftwarehouse/Projeto-Treinamento-Scrum/blob/master/imagens/CAPA.jpg?raw=true)
+</div>
