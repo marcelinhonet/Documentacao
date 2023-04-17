@@ -1,6 +1,4 @@
- 
  <h1 align="center">Documentação</h1>
-
 <h1>1. Introdução </h1>
 
 
@@ -9,7 +7,7 @@
 <h3 text-align="justify">Sistema web mostrando os processos e artefatos da metodologia ágil Scrum com formulário de avaliação.</h3>
 <br>
 <h2>1.2	Objetivo</h2>
-<h3  text-align="justify">Demonstrar ao usuário a metodologia Scrum de forma que o mesmo possa replicar todos os passos em futuros desenvolvimentos.</h3>
+<h3 text-align="justify">Demonstrar ao usuário a metodologia Scrum de forma que o mesmo possa replicar todos os passos em futuros desenvolvimentos.</h3>
 <br>
 <h1>2. Desenvolvimento </h1>
 <h2>2.1	Tecnologias utilizadas</h2>
@@ -22,21 +20,32 @@
 <h3>2.1.3	Tecnologias para gerenciamento do time</h3>
 <li>Microsoft Teams e grupo privado whats app.</li>
 <h2>2.1.4	Levantamento de requisitos</h2>
-<text-align="justify">O time enviou ao Product Owner via Teams as atividades que estariam aptos a executar e o mesmo as organizou, acrescentou mais itens que achou adequado e efetuou a montagem do Product Backlog priorizado onde foram selecionadas as funcionalidades feitas durante a primeira sprint</text-align>
-<p>
-<img src="imagens/Importancia.png" width="580" height="340"/>
+
+Foram efetuados esboços simples desenhados a mão para se ter uma ideia inicial do que seria feito no desenvolvimento do site:
+
+<img src="imagens/wireframe1.gif" width="580" height="340"/><figcaption>Esboço1</figcaption>
+
+<img src="imagens/wireframe2.gif" width="580" height="340"/><figcaption>Esboço2</figcaption>
 <br>
-</p>
+
+Após, o Project Owner se reuniu com o cliente apresentando esses esboços e a partir daí pôde definir quais seriam os próximos passos para o planejamento das Sprints.
+
 <h2>2.1.5	Planejamento das sprints</h2>
+<h3>2.1.5.1	Sprint 1</h3>
+
+O Project Owner fez uma reunião com o cliente, apresentou o esboço e a partir disso efetuou a criação do Kanban e do Backlog do produto.
+<br>Após a criação do Backlog do produto e do Kanban, o time enviou ao Product Owner via Teams as atividades que estariam aptos a executar e o mesmo as organizou em ordem de prioridade, acrescentou mais itens que achou adequados (como o uso de cores por colaborador) e efetuou a montagem do Product Backlog priorizado, onde foram selecionadas as funcionalidades feitas por cada colaborador durante a primeira sprint.
+</p>
+    <img src="imagens/kanban.jpg" width="800" height="600"/><figcaption>Kanban-Sprint1</figcaption>
+    </p>
+
 A primeira sprint foi feita considerando os requisitos, prazos e ordem de prioridade.
+<p>
+<img src="imagens/Sprint 01 prioridades.jpg" width="600" height="600"/><figcaption>Backlog-Sprint1</figcaption>
+</p>
 
 <h2>2.1.6	Arquitetura front-end</h2>
 
-<text-align="justify">Primeiro foi efetuado um esboço simples desenhado a mão para se ter uma ideia inicial do que seria feito no desenvolvimento do site.</text-align>
-
-<img src="imagens/wireframe1.gif" width="580" height="340"/>
-<img src="imagens/wireframe2.gif" width="580" height="340"/>
-<br>
 
 <h2>2.1.7	Arquitetura front-end</h2>
 
@@ -45,5 +54,3 @@ A primeira sprint foi feita considerando os requisitos, prazos e ordem de priori
 <img src="/imagens/Logo.png" width="690" height="200"/>
 <br>
 </p>
-
-
